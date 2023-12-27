@@ -15,7 +15,7 @@ color (string): Color scheme for the button (e.g., 'unicorn-pink', 'mystic-purpl
 type (string): Type of button (e.g., 'primary', 'default', 'dashed', 'text', 'link').
 size (string): Size of the button ('small', 'large', default is normal size).
 ```
-import Button from 'your-button-package-name';
+import Button from 'buttons-rbw';
  
 const YourComponent = () => {
   return (
